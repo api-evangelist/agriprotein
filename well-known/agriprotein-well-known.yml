@@ -1,0 +1,61 @@
+generated: '2026-09-13'
+method: probed
+source: https://agriprotein.co.za/
+note: >-
+  Recorded absence. AgriProtein (and its parent Insect Technology Group) entered
+  administration in February 2021 and its assets were sold in June 2021, so there is no
+  operating developer surface to probe. The only host still bearing the company name that
+  answers is agriprotein.co.za, a 2013-era "soon to be the new home of" placeholder
+  (Last-Modified: Wed, 18 Sep 2013) served from a South African shared host. Every named
+  discovery path returns 404 and the negative control also returns 404, so this host is not
+  a path-echoing catch-all — the absences are real. NO WellKnown or SecurityTxt pointer is
+  emitted, because nothing was served.
+path_echo_control: passed
+hit_count: 0
+hosts:
+- host: https://agriprotein.co.za
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/oauth-protected-resource
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/api-catalog.json
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/ucp.json
+    status: 404
+  - path: /.well-known/acp.json
+    status: 404
+  - path: /.well-known/aauth-resource.json
+    status: 404
+  - path: /.well-known/apis.json
+    status: 404
+  - path: /apis.json
+    status: 404
+  - path: /apis.yml
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+  - path: /.well-known/agriprotein-negative-control-9c4e12ab.json
+    status: 404
+excluded_hosts:
+- host: https://agriprotein.com
+  reason: >-
+    NOT CONTROLLED BY THIS COMPANY. The original agriprotein.com registration lapsed after
+    the 2021 liquidation and the domain now serves an unrelated WordPress affiliate site
+    reviewing online-poker operators for Cambodian players (title "Online Poker in Cambodia
+    2026: Top KH Poker Sites", og:site_name "AgriProtein.com", favicon a stack of poker
+    chips, nav limited to /about-us/ and /contact-us/). It was deliberately excluded from
+    the host set. Its WordPress REST API at /wp-json/ belongs to the squatter, not to
+    AgriProtein, and must never be harvested as an AgriProtein contract.
+  status: 200
+  checked: '2026-09-13'
