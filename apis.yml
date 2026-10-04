@@ -11,6 +11,7 @@ description: >-
   the group's assets, intellectual property and plant were sold in June 2021. The company is
   defunct; it published no developer program, API, or machine-readable specification, and the
   agriprotein.com domain has since lapsed to an unrelated operator.
+x-status: defunct
 url: https://raw.githubusercontent.com/api-evangelist/agriprotein/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -27,6 +28,7 @@ tags:
 - Sustainability
 - Waste Management
 - Biotechnology
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
