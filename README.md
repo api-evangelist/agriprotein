@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agriprotein is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/agriprotein
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
+AgriProtein was a South African industrial insect-farming company, founded in Cape Town in 2008, that pioneered commercial black soldier fly (Hermetia illucens) bioconversion: it fed organic waste from food factories, supermarkets, farms and restaurants to fly larvae and processed the result into MagMeal insect protein for aquaculture, poultry and pet food, MagOil, and MagSoil soil conditioner. It opened the world's first full-scale BSF facility in Philippi, Cape Town in 2014 and raised USD 105 million in 2018 to build out a global factory network. Its UK parent, Insect Technology Group, entered administration in February 2021 and the group's assets, intellectual property and plant were sold in June 2021. The company is defunct; it published no developer program, API, or machine-readable specification, and the agriprotein.com domain has since lapsed to an unrelated operator.
+
+**Areas:** Company · Agriculture · Animal Feed · Insect Protein · Sustainability · Waste Management · Biotechnology · Defunct
+
+## Agriprotein on APIs.io (historical record)
+
+Everything profiled for Agriprotein is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agriprotein/](https://apis.io/providers/agriprotein/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agriprotein: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agriprotein/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
